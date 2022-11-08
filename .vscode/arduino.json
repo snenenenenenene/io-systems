@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "programmer": "avrispmkii",
+    "sketch": "Schooltje.ino",
+    "port": "/dev/tty.usbmodem101"
+}
